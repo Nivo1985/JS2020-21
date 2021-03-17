@@ -30,13 +30,6 @@
 // console.log(inName);
 
 
-// var outName = function inName() {
-//     inName = 42;
-//     console.log(inName);
-// };
-// outName();
-
-
 // askQuestion();
 // let studentName = "Suzy";
 // function askQuestion() {

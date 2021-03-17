@@ -1,11 +1,10 @@
 ///1
 // var t = 1
 // var r = 4
-
 // if(true){console.log(t,r)}
 
 //2
-// var r = 4
+// var r = 4 
 // console.log('r')
 
 //2,5 no insert
@@ -24,12 +23,12 @@
 // var y =5;
 // var d  = x + y
 // (function(){
-//         console.log('call');
-//     })();
+//     console.log('call');
+// })();
 
-// var x = [1,2,3]
+// var x = [1,2,3];
 // var t = x
-// [1].toString()
+// [1].toString();
 // console.log(t);
 
 //3
@@ -71,6 +70,7 @@
 // var i = example();
 // console.log(example());
 // example().get();
+// i.get();
 
 
 
@@ -78,7 +78,6 @@
 //     var get = function(){
 //         console.log('get');
 //     };
-
 //     return{
 //         get: get
 //     };
@@ -104,7 +103,7 @@
 //     console.log('X does not exists');
 // }
 
-// var x=0;
+// var x;
 // if(x){
 //     console.log('X exists');
 // }

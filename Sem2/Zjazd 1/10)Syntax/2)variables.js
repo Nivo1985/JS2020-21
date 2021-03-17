@@ -1,9 +1,8 @@
 //1
-//console.log(r);
-
 
 // console.log(r);
 // var r;
+
 
 // console.log(r);
 // var r=10;
@@ -29,7 +28,7 @@
 // var myVar = 10;
 // function myfun(){
 //     myVar = 11;
-//      var myVar;
+//     var myVar;
 // }
 // myfun();
 // console.log(myVar);
@@ -39,7 +38,16 @@
 // function myfun(){
 //     console.log(myVar);
 //     myVar = 11;
-//      var myVar;
+//     var myVar;
+// }
+// myfun();
+// console.log(myVar);
+
+// var myVar = 10;
+// function myfun(myVar){
+//     console.log(myVar);
+//     myVar = 11;
+//     var myVar;
 // }
 // myfun();
 // console.log(myVar);
